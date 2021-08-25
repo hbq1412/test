@@ -1,3 +1,5 @@
 Section: IOS configuration
 hostname csr1000v-byol-3
 username cisco privilege 15 secret cisco
+line con 0
+login local
